@@ -6,7 +6,7 @@
   
 ## 📌 Pins
 - [**Nobodyasidentity.github.io**](https://github.com/Nobodyasidentity/Nobodyasidentity.github.io)
-- [**ChickenCow**](https://github.com/Nobodyasidentity/otypes)  
+- [**OTypes**](https://github.com/Nobodyasidentity/otypes)  
   
 ## 👾 Stuff I know
 <p align="center">
