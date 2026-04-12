@@ -7,7 +7,7 @@
 ## 📌 Pins
 - [**Nobodyasidentity.github.io**](https://github.com/Nobodyasidentity/Nobodyasidentity.github.io)  
 - [**OTypes**](https://github.com/Nobodyasidentity/otypes)  
-- [**Compact Diamonds**](https://github.com/Nobodyasidentity/Compact-Diamonds)  
+- [**Compact Diamonds**](https://github.com/stars/Nobodyasidentity/lists/compact-diamonds)  
   
 ## 👾 Stuff I know
 <p align="center">
